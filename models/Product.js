@@ -40,7 +40,7 @@ Product.init(
       reference: {
         model: "catergory",
         key: "id",
-      }
+      },
     },
 
   },
